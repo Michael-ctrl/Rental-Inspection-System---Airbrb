@@ -30,3 +30,10 @@ Follow these instructions to install docker-compose
 
 # Restarting the database
 `docker-compose down && docker volume rm property-management-data && docker volume create --name=property-management-data`
+
+
+# Group Members
+Myself
+Henry Huang - https://github.com/HenryHuang2000
+Kevin Wu - https://github.com/kevywevyy
+Kenneth Lu - https://github.com/tarotiger
