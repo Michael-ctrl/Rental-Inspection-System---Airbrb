@@ -1,0 +1,45 @@
+Diary
+Wk 1 
+We had formed a group of 4 in the tutorial and decided on which project we, as a group, wanted to complete together.
+The criteria we all had in mind was something that was creative, fun as well as challenging to implement.
+After going through each of the project proposals, we ultimately decided that the Rental Inspection System was most interesting to implement.
+We also spent the remaining of the tutorial coming up with potential novel features that we could implement within our system.
+
+Wk 2
+As a group, we created a draft of user stories that which satisfied the features mentioned in the project description. 
+This was in preparation to complete the project proposal which was due on the start of Week4.
+By the end of the week, we had completed our user stories as well as discussed any ambiguity in our projects system.
+
+Wk 3
+I was given the task to complete the entire Balsasmiq flowchart representing each user story in our project proposal. 
+The completed user stories were transferred onto Jira and we delegated the user stories to each of the sprints as well 
+as delegating specific user stories of our sprint 1 to each of the members.
+We also received the link for our Github which allowed us to start setting up our project.
+
+Wk 4
+I started getting familiar with Spring and Docker as well as SQL, which required some revision and research since I wasn't very familiar with Spring. 
+
+Wk 5
+I was given the task complete RIS-7 which allowed me to view the property summary of each summary as well as being able to filter the estates (i.e., no. of bedrooms etc).
+Our sprint 1 composed of our project being able to:
+- add and edit properties
+- filter properties
+- close and open properties
+- inspectors contacting the manager via auto generated email.
+
+Wk 7
+Approaching the second demo, one of my team members needed help on the frontend and therefore I decided to help redesign
+some pages as he was unsure of where and what to put on future pages. This required me to update the balsamiq flowchart
+and design some new pages according to changes in idea over time
+
+Wk 8
+I was in charge of styling the pages for the frontend. After the second demo, we were given some feedback on some
+UI issues on our website and I was in charge in making changes and fixing those problems
+
+Wk 9
+In week 9, I helped create the contact form for the inspectors (both logged in or as guests) on the frontend
+that could automatically send email to the agent's email address about their enquiries.
+
+Wk 10
+Helped the remaining members with pair programming on bugs they couldn't fix. Started laying out the final project report
+as well as made the presentation on canva which would be presented on the day of the final demo.

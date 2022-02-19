@@ -1,0 +1,42 @@
+Week 1
+----------------
+We formed our project group and looked through each of the project summaries. 
+We voted on project 7 after reviewing the requirements for each project and brainstormed some potential novel features we could implement.
+
+Week 2
+----------------
+We started creating user stories to satisfy our requirements. I started some preliminary research on backend frameworks to use. I set up a Jira board.
+
+Week 3
+----------------
+We finalised our user stories and entered them into Jira. I created the git repository and finished setting up a preliminary backend.
+
+Week 4
+----------------
+I created a confluence page with the proposed APIs for sprint 1. 
+This included the API endpoint, required request body, response codes and response body. This allowed the frontend to be developed in parallel.
+
+Week 5
+----------------
+Finished implementing the agent related tasks for the backend. This included setting up the schema, POJOs and controllers.
+
+Week 6 (Flexibility week)
+----------------
+Started drafting the API document for sprint 2.
+
+Week 7
+----------------
+Started mapping out the database relationships to allow for inspection dates to be added and finished the API document from Sprint 2.
+Experimented with custom row mappers since the default Spring Data JDBC APIs were insufficient.
+
+Week 8
+----------------
+Finished implementing custom row mappers. Completed inspection dates related backend tasks.
+
+Week 9
+----------------
+Completed the API document for sprint 3. Started thinking about the authentication/authorization flow.
+
+Week 10
+----------------
+Completed the inspector profile related tasks on the backend. Completed the authentication/authorization flow on the backend.

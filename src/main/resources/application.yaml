@@ -1,0 +1,28 @@
+spring:
+  datasource:
+    url: "jdbc:postgresql://db:5432/postgres"
+    username: "postgres"
+    password: "postgres"
+    initialization-mode: always
+    schema: classpath:/schema.sql
+  flyway:
+    enabled: true
+    baselineOnMigrate: true
+  output:
+    ansi:
+      enabled: always
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: rental.inspection.system@gmail.com
+    password: awuhedqyovdsqvvx
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+server:
+  error:
+    include-message: always

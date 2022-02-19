@@ -1,0 +1,39 @@
+Week 1
+We formed our group and decided to tackle Project 7. During the tutorial, we brainstormed
+various features together as a group and discussed whether how appropriate and realistic
+it was to implement.
+
+Week 2
+We created user stories based on the features we discussed last week and begun working
+on the Balsamiq wireframes. 
+
+Week 3
+Collaborated together on the proposal and worked on setting up the frontend of the Project
+and researching the tools we were planning to use.
+
+Week 4
+Continued setting up the frontend (handling API calls) and getting familiar with Material UI
+on the frontend, implemented the login and register pages
+
+Week 5
+Finished up the rest of the pages such as viewing properties, adding properties, editing
+properties and listing properties.
+
+Week 6 (Flexible week)
+Started researching into Google Maps API and how to integrate with our frontend project. 
+
+Week 7
+Attempted to get a start on creating the itinerary page and getting two geocoded loccations
+to display on Google Maps.
+
+Week 8
+Implemented drag and drop functionality as well as the ability ot submit inspection times to
+finish off the remaining tasks in Sprint 2.
+
+Week 9
+Completed setting up the inspector endpoints and login, and added functionality for viewing
+history and properties as an inspector.
+
+Week 10
+Finished remaining novel funtionalities such as the 'for you' page as well as and reordering
+the available properties based on the last added property.

@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    # Special testcontainers magic integration: https://www.testcontainers.org/modules/databases/jdbc/
+    url: "jdbc:tc:postgresql:12.4:///databasename"
+    initialization-mode: always
+    schema: "classpath:/schema.sql"

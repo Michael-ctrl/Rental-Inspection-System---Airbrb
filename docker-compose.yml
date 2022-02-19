@@ -1,0 +1,26 @@
+version: '3.8'
+services:
+  web:
+    build: .
+    restart: always
+    ports:
+      - "${HOST_PORT:-7034}:8080"
+    depends_on:
+      - db
+
+  db:
+    image: postgres
+    restart: always
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5678:5432"
+    volumes:
+      - property-management-data:/var/lib/postgresql/data
+
+volumes:
+  property-management-data:
+    name: property-management-data
+    external: true
