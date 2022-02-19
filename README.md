@@ -33,7 +33,7 @@ Follow these instructions to install docker-compose
 
 
 # Group Members
-Myself
-Henry Huang - https://github.com/HenryHuang2000
-Kevin Wu - https://github.com/kevywevyy
-Kenneth Lu - https://github.com/tarotiger
+Myself.
+Henry Huang - https://github.com/HenryHuang2000.
+Kevin Wu - https://github.com/kevywevyy.
+Kenneth Lu - https://github.com/tarotiger.
